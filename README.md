@@ -21,7 +21,10 @@ Code to create the following csv's are  in CoronaVirusData.ipynb
 
 ### WHO Situation Report Data
 
-who-confirmed-cases.xlsx
+The data found in the Situation Reports are captured int the spreadsheet below
+
+<ul><li>who-confirmed-cases.xlsx
+  </ul>
 
 
 
