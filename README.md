@@ -1,3 +1,5 @@
+# This is no longer being updated.   Plenty of resources available
+
 # Novel Corona virus Data
 
 This repo contains some Infection Data from 2 sources.
